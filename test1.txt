@@ -4,3 +4,5 @@ welcome to test environment
 
 jenkins test
 git test
+repo test
+connection test
