@@ -7,5 +7,7 @@ git test
 repo test
 connection test
 
+question test
+knowledge test
 
 thank you
